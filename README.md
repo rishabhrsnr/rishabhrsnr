@@ -10,9 +10,11 @@ Linkedin : https://www.linkedin.com/in/rishabhrsnr
 Portfolio: https://sites.google.com/view/rishabhrsnr
 
 ## Skills
-Programming & Big Data: Python, R, Scala, Spark, Julia, Azure, AWS
-Data Analysis & Visualization: Tableau, Power BI, Qlik, Excel
-Database Management: SQL, MongoDB, Oracle Database, SSRS, SMSS, Snowflake, Redshift
+**Programming & Big Data:** Python, R, Scala, Spark, Julia, Azure, AWS
+
+**Data Analysis & Visualization:** Tableau, Power BI, Qlik, Excel
+
+**Database Management:** SQL, MongoDB, Oracle Database, SSRS, SMSS, Snowflake, Redshift
 
 ## Certifications
 PostgreSQL, Python, MySQL - Udemy
