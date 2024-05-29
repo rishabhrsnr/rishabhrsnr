@@ -21,5 +21,5 @@ PostgreSQL, Python, MySQL - Udemy
 Network Security, Data Visualization
 
 ## Contact Information
-Email: bansal.ris@northeastern.edu
-Phone: +1 857-200-9231
+**Email:** bansal.ris@northeastern.edu
+**Phone:** +1 857-200-9231
