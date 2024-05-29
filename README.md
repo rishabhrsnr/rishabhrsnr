@@ -18,6 +18,7 @@ Portfolio: https://sites.google.com/view/rishabhrsnr
 
 ## Certifications
 PostgreSQL, Python, MySQL - Udemy
+
 Network Security, Data Visualization
 
 ## Contact Information
