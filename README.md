@@ -23,6 +23,6 @@ PostgreSQL, Python, MySQL - Udemy
 Network Security, Data Visualization
 
 ## Contact Information
-**Email:** bansal.ris@northeastern.edu
+**Email:** rishabh.rsnr@gmail.com
 
 **Phone:** +1 857-200-9231
